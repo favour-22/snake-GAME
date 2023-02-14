@@ -89,4 +89,4 @@ while not game_over:
     window.fill(WHITE)
 
     # Draw food
-    pygame.draw.rect(window, RED, (food_x, food_
+    pygame.draw.rect(window, RED, (food_x, food_)
